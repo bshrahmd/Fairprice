@@ -1,0 +1,19 @@
+{
+  "name": "aura-marketplace",
+  "version": "1.0.0",
+  "description": "AURA Multi-Item E-Commerce Store & Admin Dashboard (Gold, Black & White Edition)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [
+    "ecommerce",
+    "marketplace",
+    "sri-lanka",
+    "electronics",
+    "fashion",
+    "home-decor",
+    "gifts"
+  ]
+}
